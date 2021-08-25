@@ -20,6 +20,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 **/
 
+/*
+Source:
+https://geelaw.blog/entries/msedge-pins/assets/pin.cc
+*/
+
+
 #pragma comment(lib, "ole32")
 #pragma comment(lib, "shell32")
 
